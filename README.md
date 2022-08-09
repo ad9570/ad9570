@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,3,3,7,28&height=300&section=header&text=Minwoo%20Park&fontSize=90)
 <div align=center>
-  🌱Blog🌱
-   <a href="https://velog.io/@narris64" target="_blank"><img src="https://img.shields.io/badge/brightgreen?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+  🌱Blog🌱<br/>
+   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 </div>
