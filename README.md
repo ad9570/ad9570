@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,3,3,7,28&height=300&section=header&text=Minwoo%20Park&fontSize=90)
 <div align=center>
   🌱Blog🌱<br/>
-    <a href="https://velog.io/@narris64" target="_blank"><img src="https://img.shields.io/badge/#20C997?style=flat-square&logo="https://github.com/velopert/velog-client/blob/8fbbb371f4b4525b6747e54d0c608900ea8bf03e/src/static/svg/velog-icon.svg"&logoColor=white"/></a>
+    <a href="https://velog.io/@narris64" target="_blank"><img src="https://img.shields.io/badge/#20C997?style=flat-square&logo=https://github.com/velopert/velog-client/blob/8fbbb371f4b4525b6747e54d0c608900ea8bf03e/src/static/svg/velog-icon.svg&logoColor=white"/></a>
 </div>
