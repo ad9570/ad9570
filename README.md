@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<path d="" fill="${color}" opacity="0.4" ${reversal}>
+                <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 ${height - 80}Q 213.5 ${height - 40} 427 ${height - 70}T 854 ${height - 45}L 854 0 Z;M0 0L 0 ${height - 55}Q 213.5 ${height - 40} 427 ${height - 60}T 854 ${height - 70}L 854 0 Z;M0 0L 0 ${height - 35}Q 213.5 ${height - 65} 427 ${height - 35}T 854 ${height - 70}L 854 0 Z;M0 0L 0 ${height - 80}Q 213.5 ${height - 40} 427 ${height - 70}T 854 ${height - 45}L 854 0 Z"></animate>
+            </path>
