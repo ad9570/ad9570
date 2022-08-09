@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,3,3,7,28&height=300&section=header&text=header%20wave&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,3,3,7,28&height=300&section=header&text=Minwoo%20Park&fontSize=90)
+<div align=center>
+  🌱Blog🌱
+   <a href="https://velog.io/@narris64" target="_blank"><img src="https://img.shields.io/badge/brightgreen?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+</div>
