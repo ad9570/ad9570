@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  <h4>기술 스택</h4>
 
-<div>
+<div align=center>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=Spring Boot&logoColor=white">
